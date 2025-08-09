@@ -1,7 +1,5 @@
 name: Compile quiz game
 
-name: Compile Java code
-
 on:
   push:
 
